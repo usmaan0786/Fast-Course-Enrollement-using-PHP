@@ -18,7 +18,7 @@ Once you have added a new course to your registered courses list, it will appear
 
 ## User Interface
 
-![3](https://user-images.githubusercontent.com/72275107/235317098-8bd14ee6-bda8-4d47-a6e0-c78243e445bc.JPG = 250 * 500)
+![3](https://user-images.githubusercontent.com/72275107/235317098-8bd14ee6-bda8-4d47-a6e0-c78243e445bc.JPG)
 
 ![4](https://user-images.githubusercontent.com/72275107/235317100-62a2421a-9bfd-4762-9ed2-a98ea6b9d3bc.JPG)
 
